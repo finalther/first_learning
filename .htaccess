@@ -1,0 +1,5 @@
+<IfModule mod_php5.c>
+php_value max_execution_time 300
+AddDefaultCharset UTF-8
+AddCharset UTF-8 .php
+</IfModule>
